@@ -1,0 +1,25 @@
+body {
+    background: #cccccc;
+    font-size: 25px;
+}
+
+#pet1{
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#coleta{
+    font-size: 30px;
+ }
+
+#pet2{
+    width: 30%;
+    margin-left: 35%;
+}
